@@ -1,0 +1,1 @@
+(Connection: sqlite, SQL: select * from "sessions" where "id" = OpmiajBYV1KRbmJWEDxbGvIpMEFPUnAlJ4AcRBnU limit 1)
